@@ -272,6 +272,10 @@ This feed searches for many common terms and names for things from Final Fantasy
 >
 > - did:plc:1234
 > - @spamspamspam.bsky.social
+- did:plc:6tg2ey5zcekdcvhk3lvs46ye
+- did:plc:npburfstn2ly3xe6esqi2t4p
+- did:plc:sfq5nkcudomj5xdfzdm57uj6
+- did:plc:bdoj6bvwebpfw5z3xv36uidy
 
 # safeMode
 
