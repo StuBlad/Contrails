@@ -286,6 +286,8 @@ This feed searches for many common terms and names for things from Final Fantasy
 - did:plc:bijfjjghcx64focoh2nwoprz
 - did:plc:2jlx2saudjhddxppuadodiok
 - did:plc:2662dbesvpuruhpm4kua6ads
+- did:plc:nef73vzvzxfx2hdmwzvedqcn
+- did:plc:itxtxp7kyr4uvmjlki7ul4ty
 
 # safeMode
 
