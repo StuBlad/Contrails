@@ -31,7 +31,7 @@ This feed searches for many common terms and names for things from Final Fantasy
 > - Users: links such as `https://bsky.app/profile/why.bsky.team` will pull in the user's posts. To include replies and reposts, you can add the following flags: `https://bsky.app/profile/why.bsky.team +replies +reposts`.
 > - Pinned posts: links such as `https://bsky.app/profile/saddymayo.bsky.social/post/3jxju2wwap22e` will pin at the top of the feed. One link per line, please.
 
-- https://bsky.app/profile/stublad.renoproject.org/post/3jzskmas22725
+- https://bsky.app/profile/stublad.renoproject.org/post/3kcyq6r4e3e2r
 - FFXIV
 - Final Fantasy XIV
 - FF14
@@ -292,6 +292,8 @@ This feed searches for many common terms and names for things from Final Fantasy
 - did:plc:i6efkscl734sokrmiyjehtxw
 - did:plc:bwae7sg7e5q7golebxjhzkgo
 - did:plc:iaskkwywqhbjrxchtr22bitb
+- did:plc:w23reflvswgzdhkbuxry3gn6
+- did:plc:bfcctwrmpt2j6yamasgqlgle
 
 # safeMode
 
