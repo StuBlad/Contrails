@@ -290,7 +290,6 @@ This feed searches for many common terms and names for things from Final Fantasy
 - did:plc:itxtxp7kyr4uvmjlki7ul4ty
 - did:plc:t7zming7mz2e6fprhpvjlndg
 - did:plc:i6efkscl734sokrmiyjehtxw
-- did:plc:bwae7sg7e5q7golebxjhzkgo
 - did:plc:iaskkwywqhbjrxchtr22bitb
 - did:plc:w23reflvswgzdhkbuxry3gn6
 - did:plc:bfcctwrmpt2j6yamasgqlgle
